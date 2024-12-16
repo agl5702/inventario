@@ -48,4 +48,7 @@ class Reserva(models.Model):
         # Obtener el usuario actual o el usuario predeterminado (si no hay uno autenticado)
         return getattr(self, 'usuario', None) or UserModel.objects.get(pk=settings.DEFAULT_USER_ID)
     def __str__(self):
-        return f"{self.reserva_equipo.nombre} reservado por {self.usuario.username} el {self.fecha}"
+        # Asegurarse de que no se intente acceder a atributos de un valor None
+        reserva_equipo_nombre = self.reserva_equipo.nombre if self.reserva_equipo else 'Sin equipo asignado'
+        usuario_nombre = self.usuario.username if self.usuario else 'Sin usuario asignado'
+        return f"Reserva de {reserva_equipo_nombre} por {usuario_nombre} del {self.fecha} al {self.fecha_fin}"

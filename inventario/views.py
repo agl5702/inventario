@@ -1,8 +1,10 @@
 from rest_framework import viewsets
-from inventario.serializers import EquipoSerializer,InsumoSerializer
 from inventario.models import Equipo,Insumo
+from inventario.serializers import EquipoSerializer,InsumoSerializer
+
 
 class EquipoView(viewsets.ModelViewSet):
+
     queryset = Equipo.objects.all()
     serializer_class = EquipoSerializer
 
@@ -26,6 +28,7 @@ class EquipoView(viewsets.ModelViewSet):
         return super().destroy(request, *args, **kwargs)
     
 class InsumoView(viewsets.ModelViewSet):
+    
     queryset = Insumo.objects.all()
     serializer_class = InsumoSerializer
     

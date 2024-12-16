@@ -4,13 +4,12 @@ from .models import Reserva
 
 
 class ReservaSerializer(serializers.ModelSerializer):
-
     reserva_equipo = serializers.PrimaryKeyRelatedField(queryset=Equipo.objects.all(), required=False, allow_null=True)
     usuario = serializers.CharField(source='usuario.username', read_only=True)
 
     class Meta:
         model = Reserva
-        fields = ['id', 'reserva_equipo', 'fecha', 'fecha_fin', 'usuario']  # Especificando los campos manualmente
+        fields = ['id', 'reserva_equipo', 'fecha', 'fecha_fin', 'usuario']
 
     def validate(self, data):
         if data['fecha'] >= data['fecha_fin']:
@@ -29,5 +28,4 @@ class ReservaSerializer(serializers.ModelSerializer):
     def create(self, validated_data):
         user = self.context['request'].user
         validated_data['usuario'] = user  # Asignar el usuario logueado
-
         return super().create(validated_data)

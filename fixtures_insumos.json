@@ -1,0 +1,2852 @@
+[
+  {
+    "model": "inventario.Insumo",
+    "pk": 1,
+    "fields": {
+      "codigo": "COMA0066",
+      "descripcion": "Tarjeta compatible Uno Rev3 (incluye cable usb)",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 2,
+    "fields": {
+      "codigo": "9V-6F22",
+      "descripcion": "Batería 9V Zn-C",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 3,
+    "fields": {
+      "codigo": "GP-LR44\n",
+      "descripcion": "Pila alkalina redonda A76 / AG13",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 4,
+    "fields": {
+      "codigo": "S-CH-R-C\n",
+      "descripcion": "Sensor de choque o fin de carrera",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 5,
+    "fields": {
+      "codigo": "CP-376KX",
+      "descripcion": "Ponchadora Para Red Pro’sKit CP376KX",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 6,
+    "fields": {
+      "codigo": "MT-7051N",
+      "descripcion": "Probador de red Pros’Kit",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 7,
+    "fields": {
+      "codigo": "CON-124A\n",
+      "descripcion": "Plug RJ45 8 hilos CAT 6 plastico",
+      "cantidad": 30.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 8,
+    "fields": {
+      "codigo": "P6100\n",
+      "descripcion": "Punta para osciloscopio 100MHz - P6100",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 9,
+    "fields": {
+      "codigo": "CEF-630-500MA",
+      "descripcion": "Fusible cerámica RO58 BS1362 fundido rápido 500mA 500V \n6x30",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 10,
+    "fields": {
+      "codigo": "CEF-630-10A",
+      "descripcion": "CEF-630-500MA",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 11,
+    "fields": {
+      "codigo": "ADAP-USB-5V-2A-S",
+      "descripcion": "Adaptador USB 5V-2A",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 12,
+    "fields": {
+      "codigo": "SW-039B",
+      "descripcion": "Pulsador pequeño 4 pines 6x6 - pulsador 1.7mm aproximado",
+      "cantidad": 30.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 13,
+    "fields": {
+      "codigo": "3RT2015-1AF01",
+      "descripcion": "Contactor SIRIUS Siemens 2HP bobina 110 VAC",
+      "cantidad": 3.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 14,
+    "fields": {
+      "codigo": "BAQ-10X7",
+      "descripcion": "Baquela virgen 10x7cm",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 15,
+    "fields": {
+      "codigo": "74LS158",
+      "descripcion": "Data selector/Mux 2 a 1 Inversor 74LS158",
+      "cantidad": 25.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 16,
+    "fields": {
+      "codigo": "TAR-RELAY-1-5V",
+      "descripcion": "Tarjeta con 1 relevo 5V (Activación en alto)",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 17,
+    "fields": {
+      "codigo": "2W-250-25",
+      "descripcion": "Electrovalvula – Válvula Solenoide Agua 110 VAC – 1″ Metálica \nNC",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 18,
+    "fields": {
+      "codigo": "74HC00\n",
+      "descripcion": "Compuerta lógica nullD 74HC00",
+      "cantidad": 25.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 19,
+    "fields": {
+      "codigo": "74LS83",
+      "descripcion": "Sumador lógico de 4 bits 74LS83",
+      "cantidad": 25.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 20,
+    "fields": {
+      "codigo": "74HC154",
+      "descripcion": "Decoder/Demux 74HC154",
+      "cantidad": 25.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 21,
+    "fields": {
+      "codigo": "CD4028",
+      "descripcion": "Decodificador BCD a Decimal CD4028",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 22,
+    "fields": {
+      "codigo": "74LS138",
+      "descripcion": "Decodificador de 3 a 8 líneas 74LS138",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 23,
+    "fields": {
+      "codigo": "74HC157",
+      "descripcion": "MUX 74HC157 doble entrada 16DIP",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 24,
+    "fields": {
+      "codigo": "74LS373",
+      "descripcion": "Latch tipo D 74LS373",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 25,
+    "fields": {
+      "codigo": "CD4043",
+      "descripcion": "Latch R/S 3-state CD4043",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 26,
+    "fields": {
+      "codigo": "74LS74",
+      "descripcion": "Flip Flop dual tipo D 74LS74",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 27,
+    "fields": {
+      "codigo": "74LS112",
+      "descripcion": "Flip Flop dual tipo J-K 74LS112",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 28,
+    "fields": {
+      "codigo": "74LS93",
+      "descripcion": "Contador Binario de 4 bits 74LS93",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 29,
+    "fields": {
+      "codigo": "74LS163",
+      "descripcion": "Contador síncrono de 4 bits 74LS163",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 30,
+    "fields": {
+      "codigo": "74HC164\n",
+      "descripcion": "Shift Register 8-Bit.74HC164",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 31,
+    "fields": {
+      "codigo": "74HC165",
+      "descripcion": "Shift Register 8-Bit 74HC165",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 32,
+    "fields": {
+      "codigo": "74LS194",
+      "descripcion": "Shift Register de 4 bits 74LS194",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 33,
+    "fields": {
+      "codigo": "SLA-05VDC-SL-C",
+      "descripcion": "Relevo de potencia 5VDC, 30A",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 34,
+    "fields": {
+      "codigo": "SLA-24VDC-SL-C",
+      "descripcion": "Relevo de potencia 24VDC, 30A",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 35,
+    "fields": {
+      "codigo": "SLA-12VDC-SL-C",
+      "descripcion": "Relevo de potencia 12VDC, 30A",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 36,
+    "fields": {
+      "codigo": "P-GEN",
+      "descripcion": "Punta de prueba BNC a caimán",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 37,
+    "fields": {
+      "codigo": "MC-9785",
+      "descripcion": "Cable BNC-BNC 1.8 metros, 75 ohmios de lata calidad",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 38,
+    "fields": {
+      "codigo": "KIT-AMPLI-OPER",
+      "descripcion": "KIT DE Amplificadores operacional incluye 1 de cada ref:\nTL071\nTL084\nLM301\nLM348N\nTL074\nLM324D",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 39,
+    "fields": {
+      "codigo": "KEPR-3P",
+      "descripcion": "KIT DE EXTRACTORES DE TRES PATAS PARA POLEAS Y \nRODAMIENTOS",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 40,
+    "fields": {
+      "codigo": "HS-430BH\n",
+      "descripcion": "Servomotor Hitec 4.8-6v 5Kg/cm",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 41,
+    "fields": {
+      "codigo": null,
+      "descripcion": "BLOCK DIN A4 BLANCO",
+      "cantidad": 30.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 42,
+    "fields": {
+      "codigo": "3ED67A",
+      "descripcion": "CARTUCHO TINTA HP 712 DESIGNJET CYAN\nINDIVIDUAL",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 43,
+    "fields": {
+      "codigo": "3ED68A",
+      "descripcion": "CARTUCHO TINTA HP 712 DESIGNJET\nMAGENTA 29 ML-INDIVIDUAL ",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 44,
+    "fields": {
+      "codigo": "3ED69A",
+      "descripcion": "CARTUCHO TINTA HP 712 DESIGNJET\nAMARILLO 29 ML-INDIVIDUAL",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 45,
+    "fields": {
+      "codigo": "3ED71A",
+      "descripcion": "CARTUCHO TINTA HP 712XL DESIGNJET\nNEGRO-BK 80ML",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 46,
+    "fields": {
+      "codigo": "ESP32-WROOM-32D-DEVKIT",
+      "descripcion": "Tarjeta de desarrollo ESP32-WROOM-32D",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 47,
+    "fields": {
+      "codigo": "KIT-M2-230PC",
+      "descripcion": "Kit de tornillos y tuercas M2 de acero inoxidable. 230 piezas",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 48,
+    "fields": {
+      "codigo": "JBAV-5",
+      "descripcion": "Juego de 5 brocas HSS para metal en estuche, TRUPER \nEXPERT",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 49,
+    "fields": {
+      "codigo": "JBMA-8",
+      "descripcion": "Juego de 8 brocas con punta centradora para madera, TRUPER",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 50,
+    "fields": {
+      "codigo": "JBCT-6",
+      "descripcion": "Juego de 6 brocas para concreto, TRUPER",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 51,
+    "fields": {
+      "codigo": "PC-01-R",
+      "descripcion": "Pelacables ajustable/5 pulgadas",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 52,
+    "fields": {
+      "codigo": "DESI-36\n",
+      "descripcion": "Destornillador inalámbrico 3.6V profesional TRUPER",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 53,
+    "fields": {
+      "codigo": "KIT-110EN1",
+      "descripcion": "Kit de destornilladores 110 en 1",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 54,
+    "fields": {
+      "codigo": "TL-7501A",
+      "descripcion": "Pelacable TL-7501A",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 10,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 55,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Diodo rectificador estándar 50V 1A DO-41",
+      "cantidad": 50.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 56,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Diodo rectificador estándar 1000V 1A. DO-41",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 57,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Contador Agua Chorro Unico 1/2 Plastico",
+      "cantidad": 4.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 58,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Transistor PNP 40V 200mA TO-92",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 59,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Encoder de 360 P/R",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 60,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Motor paso a paso NEMA 17 42BYGHW609 bipolar 1.7A",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 61,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Motor paso a paso NEMA 17 42BYGHW609 bipolar 1.7A",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 62,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Encoder de 600 P/R",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 63,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Flip-Flop tipo D 74HC174",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 64,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Compuerta lógica nullD 74LS00 DIP-14",
+      "cantidad": 40.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 65,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Decodificador/Demux de 2 a 4 líneas 74LS139",
+      "cantidad": 30.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 66,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Data selector/Mux 1 de 8 líneas 74LS151",
+      "cantidad": 30.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 67,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Data selector/Mux 2 a 1 líneas 74LS157",
+      "cantidad": 30.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 68,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Shift Register de 8 bits 74LS164",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 69,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Shift Register de 4 bits 74LS195",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 70,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Compuerta lógica Buffer/Line Driver 74LS240",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 71,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Flip Flop dual tipo J-K 74LS73",
+      "cantidad": 50.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 72,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Flip Flop dual tipo D 74LS74",
+      "cantidad": 50.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 73,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Flip Flop dual tipo J-K 74LS76",
+      "cantidad": 50.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 74,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Comparador de magnitud de 4 bits 74LS85",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 75,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Compuerta lógica OR Exclusiva 74LS86",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 76,
+    "fields": {
+      "codigo": null,
+      "descripcion": "MDF 2.5mm 1.83x2.44 Metros Br",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 77,
+    "fields": {
+      "codigo": null,
+      "descripcion": "MDF 12mm 1.83x2.44 Metros TRUPAN",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 78,
+    "fields": {
+      "codigo": null,
+      "descripcion": "MDF 9mm 1.83x2.44 Metros TRUPAN",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 79,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Malla desoldadora con resina 2.0mm 1.5mts PROSKIT",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 80,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Lámina de acrílico 3mm 90*60",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 81,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Lámina de acrílico 5mm 90*60",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 82,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Acople para motor 5mm x 8mm x 25mm",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 83,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Alambre de cobre esmaltado AWG 14",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 84,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Alambre de cobre esmaltado AWG 16 1kg",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 85,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Alambre de cobre esmaltado AWG 18 1kg",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 86,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Alambre de cobre esmaltado AWG 20 1kg",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 87,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Baquela virgen 20cm x 30cm Una cara",
+      "cantidad": 15.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 88,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Batería Litio-Polímero 7.4V 1000mAh. 30C",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 89,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Beaglebone Blue, para Robótica",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 90,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tarjeta de protección para baterías 18650 2S, 7.4V, 15A",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 91,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Punta de prueba BNC a caimán.",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 92,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Módulo Bluetooth HC06",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 93,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Diodo Zener de 12V, 1W 1N4742",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 94,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Cadena porta cable de 10 x 10mm",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 95,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit de cables caimán-caimán X10",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 96,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Cargador de Bateria Litio 18650",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 97,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Cautines tipo lápiz 60W - TRUPER",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 98,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Flip-Flop tipo D dual. Encaps DIP-14",
+      "cantidad": 50.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 99,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Flip Flop dual tipo J-K CD4027",
+      "cantidad": 50.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 100,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Multivibrador Monoestable /Astable CD4047BE",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 101,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Capacitor electrolítico aluminio 0.1uF 50V",
+      "cantidad": 100.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 102,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Capacitor electrolítico aluminio 1000uF 50V",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 103,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Capacitor electrolítico aluminio 10uF 25V",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 104,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Capacitor electrolítico aluminio 4.7uF 50V",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 105,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Shield CNC para driver A4988",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 106,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tarjeta compatible Uno Rev3 (incluye cable usb)",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 107,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tarjeta compatible Uno SMD con driver CH340",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 108,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tarjeta compatible Uno SMD con driver CH340",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 109,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Conversor TTL a RS485",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 110,
+    "fields": {
+      "codigo": null,
+      "descripcion": "PUNTA DE REPUESTO D8-16",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 111,
+    "fields": {
+      "codigo": null,
+      "descripcion": "RPLIDAR A1M8 - 360 Degree Laser Scanner Development Kit",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 112,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Cinta Rotuladora LT Blanca 12mmx4mt Dymo Papel DYMO",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 113,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Echo Dot (5.ª generación, modelo de 2022) versión internacional",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 114,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tarjeta de desarrollo ESP32-WROOM-32",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 115,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Modulo Sensor de Efecto Hall",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 116,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Pila alkalina redonda A76",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 117,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Sensor de concentración de oxígeno y ritmo cardiaco",
+      "cantidad": 6.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 118,
+    "fields": {
+      "codigo": null,
+      "descripcion": "MOSFET IRFZ44 canal N de 55V 49A",
+      "cantidad": 100.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 119,
+    "fields": {
+      "codigo": null,
+      "descripcion": "MOSFET IRFZ44 canal N de 55V 49A",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 120,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit de Aire 8 Accesorios BAUKER",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 121,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Cojinete con rodamiento horizontal, para eje de 8mm",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 122,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit Sparkfun de Raspberry Pi 4 2GB",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 123,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Rollos de filamento ABS X Kg de 1.75mm",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 124,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit amplificadores operacionales (150 piezas) Contiene 10 unidades de cada referencia",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 125,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit de electrónica para Arduino™ N° 27",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 126,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit de Bobinas through hole",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 127,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit de capacitores cerámicos. 3600 unidades",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 128,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit de capacitores electrolíticos para baja frecuencia. 1000 unidades",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 129,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit de capacitores electrolíticos para alta frecuencia. 810 unidades",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 130,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit mecánico de 70 piezas",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 131,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Colores surtidos de filamento Pla",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 132,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit de Termoencogibles",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 133,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit Termocupla tipo K",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 134,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit 200 LEDs colores variados",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 135,
+    "fields": {
+      "codigo": null,
+      "descripcion": "LM311 comparador diferencial",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 136,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Sensor analógico de temperatura LM35",
+      "cantidad": 50.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 137,
+    "fields": {
+      "codigo": null,
+      "descripcion": "LM555 Circuito Temporizador",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 138,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Regulador de voltaje 5V ~ 1A Encap: TO-220",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 139,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Regulador de voltaje LM7809 9V/1A",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 140,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Rodamiento lineal, 8mm",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 141,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Fuente suicheada 12V 12.5A 150W Mean Well",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 142,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tarjeta de control para impresoras 3D Ender 4.22",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 143,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit de accesorios para mototool 276 pzs - TRUPER",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 144,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Malla tejida en acero INOX AISI 304 – 10×10 CAL 0.80mm",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 145,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Módulo Display OLED 1.3 pulgadas",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 146,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Power Bank 10000 mA ORAIMO",
+      "cantidad": 3.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 147,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Organizador con 64 gavetas - TRUPER",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 148,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Multimetro Digital OWON OW16B",
+      "cantidad": 6.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 149,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Potenciómetro rotativo de 10k",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 150,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Pegastic barra 40g",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 151,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Pelacables ajustable/5 pulgadas",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 152,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Kit de Piñones 80 Piezas",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 153,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Mni pinza punta redonda 5\" PRETUL",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 154,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Adaptador de rueda hexagonal de 12 mm para eje de 4 mm (paquete de 2)",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 155,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Motorreductor metálico 78:1 20Dx43L mm 6V",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 156,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Sensor de flujo de agua 1/2",
+      "cantidad": 4.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 157,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Conectores Deans 30A para bateria",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 158,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Panel solar 12V 3W Vidrio Policristalino",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 159,
+    "fields": {
+      "codigo": null,
+      "descripcion": "RESISTENCIA DE CARBON",
+      "cantidad": 100.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 160,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tarjeta Raspberry Pico W",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 161,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Sensor integrado de nutrientes del suelo. 4 en 1",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 162,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Sensor de Choque",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 163,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Convertidor tarjetas MicroSD a USB",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 164,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tarjeta sensor de color TCS3200",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 165,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Sensor análogo de CO2",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 166,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Sensor de Humedad de Suelo – Capacitivo",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 167,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Gravity: Photoelectric Water / Liquid Level Sensor For Arduino",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 168,
+    "fields": {
+      "codigo": null,
+      "descripcion": "SparkFun 9DoF IMU Breakout - ISM330DHCX, MMC5983MA (Qwiic)",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 169,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Encoder módulo optoacoplador",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 170,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Sensor de vibración normalmente cerrado",
+      "cantidad": 6.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 171,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Shield cargador Bankpower para 18650",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 172,
+    "fields": {
+      "codigo": null,
+      "descripcion": "LILYGO® TTGO T-SIM7600 Placa de desarrollo TTGO T-SIM7600 ESP32 LTE Cat4/1 4G, módulo SIM7600G-H R2, SIM7600SA-H,",
+      "cantidad": 1.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 173,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Contador binario Up/Down síncrono de 4 bits",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 174,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Sonoff- Interruptor de atenuación Dimmer WiFi",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 175,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Módulo sensor de gas de Hidrogeno",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 176,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Módulo tarjeta microSD compatible Arduino™",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 177,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tuerca T, M4, 10x10mm, OB2020/GB2020",
+      "cantidad": 100.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 178,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Varilla trapezoidal roscada de 500mm, M8 paso de 1mm 1 Hilos",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 179,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Transistor NPN TIP41C 100V 6A",
+      "cantidad": 30.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 180,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Adaptador USB nullo Inalámbrico TP-LINK",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 181,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Batería litio 18650 3.7V 2500 mAh",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 182,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Batería litio 18650 3.7V 3500 mAh. Samsung",
+      "cantidad": 4.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 183,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Pila 9V alkalina Tronex",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 184,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tuerca T8 para Varilla trapezoidal 2 hilos",
+      "cantidad": 50.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 185,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Pinza voltiamperímetrica UT210D",
+      "cantidad": 2.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 186,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Varilla lisa de 8mm 1mt",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 187,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Sensor infrarrojo de proximidad (evasión de obstáculos)",
+      "cantidad": 20.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 188,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Batería Litio-Polímero 7.4V 2200mAh",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 189,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Extractor de soldadura ZD108",
+      "cantidad": 10.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  },
+  {
+    "model": "inventario.Insumo",
+    "pk": 190,
+    "fields": {
+      "codigo": null,
+      "descripcion": "Tercera mano con lupa ZD-10D",
+      "cantidad": 5.0,
+      "imagen": null,
+      "responsable": "Gerardo Alfonso Guzman Brito",
+      "numero_odc": 60,
+      "ano_compra": 2023,
+      "proveedor": null,
+      "ubicacion": "Prototipado "
+    }
+  }
+]

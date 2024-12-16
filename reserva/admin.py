@@ -3,7 +3,6 @@ from .models import Reserva
 
 class ReservaAdmin(admin.ModelAdmin):
     list_display = ['usuario', 'fecha', 'fecha_fin', 'reserva_equipo_nombre']
-    
     def save_model(self, request, obj, form, change):
         if not obj.usuario:
             obj.usuario = request.user  # Asigna automáticamente el usuario logueado
